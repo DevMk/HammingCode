@@ -1,0 +1,16 @@
+c:\users\the vfx style\documents\visual studio 2015\Projects\HammingCode\HammingCode\bin\Debug\HammingCode.exe
+c:\users\the vfx style\documents\visual studio 2015\Projects\HammingCode\HammingCode\bin\Debug\HammingCode.pdb
+c:\users\the vfx style\documents\visual studio 2015\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.csprojResolveAssemblyReference.cache
+c:\users\the vfx style\documents\visual studio 2015\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.Properties.Resources.resources
+c:\users\the vfx style\documents\visual studio 2015\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.csproj.GenerateResource.Cache
+c:\users\the vfx style\documents\visual studio 2015\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.exe
+c:\users\the vfx style\documents\visual studio 2015\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.pdb
+C:\Users\The VFX StyLe\Documents\Visual Studio 2015\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.View.resources
+F:\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.exe
+F:\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.pdb
+F:\Projects\HammingCode\HammingCode\bin\Debug\HammingCode.exe
+F:\Projects\HammingCode\HammingCode\bin\Debug\HammingCode.pdb
+F:\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.csprojResolveAssemblyReference.cache
+F:\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.View.resources
+F:\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.Properties.Resources.resources
+F:\Projects\HammingCode\HammingCode\obj\Debug\HammingCode.csproj.GenerateResource.Cache
